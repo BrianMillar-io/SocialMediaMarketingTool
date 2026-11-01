@@ -1,0 +1,23 @@
+# local data, never committed
+venv/
+__pycache__/
+settings.json
+state.json
+logs/
+reels/
+sets/
+sets-paused/
+not-sets/
+footage/
+reference/
+*.command
+*.bak
+poster.py.before-footage
+.running
+.DS_Store
+*.mp3
+*.wav
+*.aif
+*.aiff
+*.mp4
+*.mov
